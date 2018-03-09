@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="04_modulo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_modulo">
+				<Option output="/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/04_modulo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_modulo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_modulo/fast">
+				<Option output="/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/04_modulo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_modulo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/main.cpp">
+			<Option target="04_modulo"/>
+		</Unit>
+		<Unit filename="/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/04_modulo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

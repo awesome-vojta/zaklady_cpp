@@ -1,0 +1,3 @@
+/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/07_comma_op/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/07_comma_op/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vojta/Documents/development/cpp/zaklady_cpp/lesson04/07_comma_op/cmake-build-debug/CMakeFiles/07_comma_op.dir

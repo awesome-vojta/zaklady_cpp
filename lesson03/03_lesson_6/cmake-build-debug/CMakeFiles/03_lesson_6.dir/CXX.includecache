@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vojta/Documents/development/cpp/zaklady_cpp/lesson03/03_lesson_6/another.cpp
+iostream
+-
+
+/home/vojta/Documents/development/cpp/zaklady_cpp/lesson03/03_lesson_6/main.cpp
+iostream
+-
+
