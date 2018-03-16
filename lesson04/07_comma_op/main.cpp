@@ -38,12 +38,12 @@ bool chop_able(string tree) {
 }
 string chop_it_baby(string tree) {
 
-    cout << tree.substr(0,tree.length()-1) << "'" << endl;usleep(300000);
+    usleep(600000);
+    cout << tree.substr(0,tree.length()-1) << "'=" << endl;usleep(300000);
     cout << tree.substr(0,tree.length()-1) << "!=" << endl;usleep(300000);
     cout << tree.substr(0,tree.length()-1) << "| =" << endl;usleep(300000);
-    cout << tree.substr(0,tree.length()-1) << "!  =" << endl;usleep(300000);
-    cout << tree.substr(0,tree.length()-1) << "'   -" << endl;usleep(300000);
-    cout << tree.substr(0,tree.length()-1) << "     ." << endl;usleep(300000);
+    cout << tree.substr(0,tree.length()-1) << "!  -" << endl;usleep(300000);
+    cout << tree.substr(0,tree.length()-1) << "'   ." << endl;usleep(300000);
     cout << tree.substr(0,tree.length()-1)  << endl;usleep(300000);
     // "console animation"
 
